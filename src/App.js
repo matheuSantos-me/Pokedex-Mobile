@@ -1,10 +1,11 @@
 import React from 'react'
-import { Text } from 'react-native'
+
+import Home from '../src/container/Home'
 
 const App = () => {
   return (
     <>
-    <Text>OIOIOOIOIO</Text>
+    <Home />
     </>
   )
 }
