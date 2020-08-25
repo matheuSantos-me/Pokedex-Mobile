@@ -5,7 +5,7 @@ import { Header } from '../../components/common'
 const Home = () => {
 
   return (
-    <View>
+    <View style={{ backgroundColor: '#FFFFFF' }}>
       <Header />
     </View>
   )
