@@ -13,6 +13,8 @@ const InputPrimary = () => {
 
 const styles = StyleSheet.create({
   Input: {
+    height: 60,
+    borderRadius: 5,
     backgroundColor: '#F2F2F2'
   }
 })
